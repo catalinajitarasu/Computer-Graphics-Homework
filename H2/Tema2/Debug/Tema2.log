@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Catalina\OneDrive\Desktop\Grafica\Tema2\Tema2\main.cpp(214,12): warning C4101: 't': unreferenced local variable
+C:\Users\Catalina\OneDrive\Desktop\Grafica\Tema2\Tema2\main.cpp(209,55): warning C4101: 'xNext': unreferenced local variable
+C:\Users\Catalina\OneDrive\Desktop\Grafica\Tema2\Tema2\main.cpp(209,48): warning C4101: 'yNext': unreferenced local variable
+C:\Users\Catalina\OneDrive\Desktop\Grafica\Tema2\Tema2\main.cpp(385,12): warning C4101: 't': unreferenced local variable
+  Tema2.vcxproj -> C:\Users\Catalina\OneDrive\Desktop\Grafica\Tema2\Debug\Tema2.exe
